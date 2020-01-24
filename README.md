@@ -53,10 +53,11 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
+* [Release Notes](#release-notes)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [Versioning](#versioning)
-* [Authors](#contact)
+* [Authors](#authors)
 * [Acknowledgements](#acknowledgements)
 * [License](#license)
 
@@ -110,9 +111,20 @@ git clone https://github.com/github_username/repo.git
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Wiki](https://github.com/devtobi/%REPONAME%/wiki)_
+_For more examples, please refer to the [wiki](https://github.com/devtobi/%REPONAME%/wiki)_
 
+<!-- RELEASE NOTES -->
+## Release Notes
 
+Only feature additions are listed here:
+
+* 0.2
+    * ADD: Add `init()`
+* 0.1
+    * The first proper release
+    * CHANGE: Rename `foo()` to `bar()`
+    
+_For the detailed notes, please refer to the [releases](https://github.com/devtobi/%REPONAME%/releases)_
 
 <!-- ROADMAP -->
 ## Roadmap
