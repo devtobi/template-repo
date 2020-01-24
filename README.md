@@ -11,10 +11,21 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+![Current release][release-shield]
+![Last commit][commit-shield]
+[![Issues][issues-shield]][issues-url]
+
+[![Stargazers][stars-shield]][stars-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+
+<!-- ![Travis][travis-shield] -->
+<!-- ![Sonar Tests][sonar-tests-shield] -->
+<!-- ![Sonar Code Coverage][sonar-codecoverage-shield] -->
+<!-- ![Sonar Quality Gate][sonar-quality-shield] -->
+![Dependencies][dependency-shield]
+
+![Size][size-shield]
 [![MIT License][license-shield]][license-url]
 
 <!-- PROJECT LOGO -->
@@ -122,6 +133,10 @@ _For more examples, please refer to the [wiki](https://github.com/devtobi/%REPON
 <!-- RELEASE NOTES -->
 ## Release Notes
 
+Current release is: 
+
+![Current release][release-shield]
+
 Only feature additions are listed here (_For the detailed notes, please refer to the [releases](https://github.com/devtobi/%REPONAME%/releases)_)
 
 ### 0.2
@@ -210,6 +225,19 @@ Distributed under the MIT License. See [LICENSE][license-url] for more informati
 
 [license-shield]: https://img.shields.io/github/license/devtobi/%REPONAME%.svg?style=flat-square
 [license-url]: https://github.com/devtobi/%REPONAME%/blob/master/LICENSE
+
+[size-shield]: https://img.shields.io/github/size/devtobi/%REPONAME%.svg?style=flat-square
+
+[release-shield]: https://img.shields.io/github/v/release/devtobi/%REPONAME%?sort=semver&style=flat-square
+[commit-shield]: https://img.shields.io/github/last-commit/devtobi/%REPONAME%?style=flat-square
+
+<!-- THIRD PARTY BADGES -->
+
+[travis-shield]: https://img.shields.io/travis/com/devtobi/%REPONAME%.svg?style=flat-square
+
+<!-- TODO SONAR TESTS, CODE COVERAGE, QUALITY GATE PASS -->
+
+[dependency-shield]: https://img.shields.io/librariesio/github/devtobi/%REPONAME%.svg?style=flat-square
 
 <!-- PRODUCT IMAGES -->
 [product-screenshot]: docs/images/product-screenshot.png
