@@ -21,7 +21,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/devtobi/%REPONAME%">
-    <img src="docs/logo.svg" alt="Logo" width="80" height="80">
+    <img src="docs/images/logo.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">YOUR_TITLE</h3>
@@ -208,4 +208,4 @@ Distributed under the MIT License. See [LICENSE][license-url] for more informati
 [license-url]: https://github.com/devtobi/%REPONAME%/blob/master/LICENSE
 
 <!-- PRODUCT IMAGES -->
-[product-screenshot]: docs/screenshot.png
+[product-screenshot]: docs/images/screenshot.png
