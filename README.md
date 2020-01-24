@@ -165,7 +165,7 @@ See also the list of [contributors][contributors-url] who participated in this p
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See [LICENSE.TXT][license-url] for more information.
+Distributed under the MIT License. See [LICENSE][license-url] for more information.
 
 
 
@@ -185,7 +185,7 @@ Distributed under the MIT License. See [LICENSE.TXT][license-url] for more infor
 [issues-url]: https://github.com/devtobi/%REPONAME%/issues
 
 [license-shield]: https://img.shields.io/github/license/devtobi/%REPONAME%.svg?style=flat-square
-[license-url]: https://github.com/devtobi/%REPONAME%/blob/master/LICENSE.txt
+[license-url]: https://github.com/devtobi/%REPONAME%/blob/master/LICENSE
 
 <!-- PRODUCT IMAGES -->
 [product-screenshot]: docs/screenshot.png
