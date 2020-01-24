@@ -49,6 +49,7 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
+<!--* formatting comment -->
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
