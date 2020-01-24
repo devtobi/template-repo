@@ -56,7 +56,7 @@
 * [Release Notes](#release-notes)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
-* [Versioning](#versioning)
+<!--* [Contact](#contact)-->
 * [Authors](#authors)
 * [Acknowledgements](#acknowledgements)
 * [License](#license)
@@ -142,12 +142,9 @@ See the [open issues](https://github.com/devtobi/%REPONAME%/issues) for a list o
 ### 3.x (t.b.d)
 
 - [Updates Slides](https://www.example.com)
-- Will be using TypeScript. For internal implementation only. Does NOT affect ES users, but should improve TS integration for TS users.
-- Decouple internals into separate packages (monorepo) each with its own defined API contracts.
-  - Individual packages are smaller in scope and more friendly for contributions
-  - Opens up custom renderer API for rendering to non-web targets, e.g. NativeScript, Weex, WeChat.
-  - Possibility to swap the observer / scheduler with different underlying implementations. E.g. ES5 observer for IE11 compatibility, alternative scheduler to leverage `requestIdleCallback` for time-slicing.
-- High level API remains as close to 2.x as possible. Breaking changes only made where necessary, and will be communicated through the RFC process.
+- Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+  - At vero eos et accusam et justo duo dolores et ea rebum
+  - Stet clita kasd gubergren
 
 
 
@@ -158,17 +155,10 @@ Please read [CONTRIBUTING.md][contributing-url] for details on our code of condu
 
 
 
-<!-- VERSIONING -->
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/devtobi/%REPONAME%/tags)
-
-
-
 <!-- CONTACT -->
 <!-- ## Contact -->
 
-<!-- Tobias Stadler - [@twitter_handle](https://twitter.com/twitter_handle) - email -->
+<!-- Tobias Stadler - [@devtobi](https://twitter.com/devtobi) -->
 
 <!-- Project Link: [https://github.com/devtobi/%REPONAME%](https://github.com/devtobi/%REPONAME%) -->
 
