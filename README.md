@@ -113,23 +113,41 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [wiki](https://github.com/devtobi/%REPONAME%/wiki)_
 
+
+
 <!-- RELEASE NOTES -->
 ## Release Notes
 
-Only feature additions are listed here:
+Only feature additions are listed here (_For the detailed notes, please refer to the [releases](https://github.com/devtobi/%REPONAME%/releases)_)
 
-* 0.2
-    * ADD: Add `init()`
-* 0.1
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
+### 0.2
+* ADD: Add `init()`
+### 0.1
+* The first proper release
+* CHANGE: Rename `foo()` to `bar()`
     
-_For the detailed notes, please refer to the [releases](https://github.com/devtobi/%REPONAME%/releases)_
+
 
 <!-- ROADMAP -->
 ## Roadmap
 
 See the [open issues](https://github.com/devtobi/%REPONAME%/issues) for a list of proposed features (and known issues).
+
+### 2.x (December 2020)
+
+- Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+- At vero eos et accusam et justo duo dolores et ea rebum
+- Stet clita kasd gubergren
+
+### 3.x (t.b.d)
+
+- [Updates Slides](https://www.example.com)
+- Will be using TypeScript. For internal implementation only. Does NOT affect ES users, but should improve TS integration for TS users.
+- Decouple internals into separate packages (monorepo) each with its own defined API contracts.
+  - Individual packages are smaller in scope and more friendly for contributions
+  - Opens up custom renderer API for rendering to non-web targets, e.g. NativeScript, Weex, WeChat.
+  - Possibility to swap the observer / scheduler with different underlying implementations. E.g. ES5 observer for IE11 compatibility, alternative scheduler to leverage `requestIdleCallback` for time-slicing.
+- High level API remains as close to 2.x as possible. Breaking changes only made where necessary, and will be communicated through the RFC process.
 
 
 
