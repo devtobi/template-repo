@@ -1,18 +1,7 @@
 <!--
-*** Thanks for checking out this README Template. If you have a suggestion that would
-*** make this better, please fork the repo and create a pull request or simply open
-*** an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, repo, twitter_handle, email
+*** devtobi, %REPONAME%, twitter_handle, email
 -->
-
-
-
-
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -27,15 +16,12 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/devtobi/%REPONAME%">
+    <img src="docs/logo.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">YOUR_TITLE</h3>
@@ -43,14 +29,16 @@
   <p align="center">
     YOUR_SHORT_DESCRIPTION
     <br />
-    <a href="https://github.com/github_username/repo"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/devtobi/%REPONAME%/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo">View Demo</a>
+    <a href="https://github.com/devtobi/%REPONAME%">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo/issues">Report Bug</a>
+    <a href="https://devtobi.github.io/%REPONAME%/">Check GitHub Pages</a>
     ·
-    <a href="https://github.com/github_username/repo/issues">Request Feature</a>
+    <a href="https://github.com/devtobi/%REPONAME%/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/devtobi/%REPONAME%/issues">Request Feature</a>
   </p>
 </p>
 
@@ -67,9 +55,10 @@
 * [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
+* [Versioning](#versioning)
+* [Authors](#contact)
 * [Acknowledgements](#acknowledgements)
+* [License](#license)
 
 
 
@@ -78,10 +67,9 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `twitter_handle`, `email`
-
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+<br>
+Only list the technologies and major frameworks used in the 'Built With' section.
 
 ### Built With
 
@@ -96,6 +84,8 @@ Here's a blank template to get started:
 
 To get a local copy up and running follow these simple steps.
 
+
+
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
@@ -104,15 +94,13 @@ This is an example of how to list things you need to use the software and how to
 npm install npm@latest -g
 ```
 
+
+
 ### Installation
  
 1. Clone the repo
 ```sh
 git clone https://github.com/github_username/repo.git
-```
-2. Install NPM packages
-```sh
-npm install
 ```
 
 
@@ -122,43 +110,46 @@ npm install
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Wiki](https://github.com/devtobi/%REPONAME%/wiki)_
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/devtobi/%REPONAME%/issues) for a list of proposed features (and known issues).
 
 
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Please read [CONTRIBUTING.md][contributing-url] for details on our code of conduct, and the process for submitting pull requests to us.
 
 
 
-<!-- LICENSE -->
-## License
+<!-- VERSIONING -->
+## Versioning
 
-Distributed under the MIT License. See `LICENSE` for more information.
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/devtobi/%REPONAME%/tags)
 
 
 
 <!-- CONTACT -->
-## Contact
+<!-- ## Contact -->
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+<!-- Tobias Stadler - [@twitter_handle](https://twitter.com/twitter_handle) - email -->
 
-Project Link: [https://github.com/github_username/repo](https://github.com/github_username/repo)
+<!-- Project Link: [https://github.com/devtobi/%REPONAME%](https://github.com/devtobi/%REPONAME%) -->
+
+
+
+<!-- AUTHORS -->
+## Authors
+
+* **Tobias Stadler** - *Initial work* - [devtobi](https://github.com/devtobi)
+
+See also the list of [contributors][contributors-url] who participated in this project.
 
 
 
@@ -171,20 +162,30 @@ Project Link: [https://github.com/github_username/repo](https://github.com/githu
 
 
 
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See [LICENSE.TXT][license-url] for more information.
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[contributors-shield]: https://img.shields.io/github/contributors/devtobi/%REPONAME%.svg?style=flat-square
+[contributors-url]: https://github.com/devtobi/%REPONAME%/graphs/contributors
+[contributing-url]: https://github.com/devtobi/%REPONAME%/blob/master/CONTRIBUTING.md
+
+[forks-shield]: https://img.shields.io/github/forks/devtobi/%REPONAME%.svg?style=flat-square
+[forks-url]: https://github.com/devtobi/%REPONAME%/network/members
+
+[stars-shield]: https://img.shields.io/github/stars/devtobi/%REPONAME%.svg?style=flat-square
+[stars-url]: https://github.com/devtobi/%REPONAME%/stargazers
+
+[issues-shield]: https://img.shields.io/github/issues/devtobi/%REPONAME%.svg?style=flat-square
+[issues-url]: https://github.com/devtobi/%REPONAME%/issues
+
+[license-shield]: https://img.shields.io/github/license/devtobi/%REPONAME%.svg?style=flat-square
+[license-url]: https://github.com/devtobi/%REPONAME%/blob/master/LICENSE.txt
+
+<!-- PRODUCT IMAGES -->
+[product-screenshot]: docs/screenshot.png
