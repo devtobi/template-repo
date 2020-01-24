@@ -21,7 +21,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/devtobi/%REPONAME%">
-    <img src="docs/images/logo.svg" alt="Logo" width="80" height="80">
+    <img src="docs/images/logo.svg" alt="Logo" width="200" height="100">
   </a>
 
   <h3 align="center">YOUR_TITLE</h3>
@@ -66,7 +66,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<p align="center">
+  <img src="docs/images/product-screenshot.png" alt="Product Screenshot" width="500" height="300">
+</p>
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 <br>
@@ -208,4 +210,4 @@ Distributed under the MIT License. See [LICENSE][license-url] for more informati
 [license-url]: https://github.com/devtobi/%REPONAME%/blob/master/LICENSE
 
 <!-- PRODUCT IMAGES -->
-[product-screenshot]: docs/images/screenshot.png
+[product-screenshot]: docs/images/product-screenshot.png
