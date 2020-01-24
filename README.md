@@ -53,6 +53,7 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
+<!--* formatting comment -->
 * [Release Notes](#release-notes)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
