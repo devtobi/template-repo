@@ -170,8 +170,8 @@ See the [open issues](https://github.com/devtobi/%REPONAME%/issues) for a list o
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Please read [CONTRIBUTING.md][contributing-url] for details on our code of conduct, and the process for submitting pull requests to us.
-
+Please read [CONTRIBUTING.md][contributing-url] for details about the process for submitting pull requests to us.
+The Code of Conduct can be found in [CODE_OF_CONDUCT.md][code-of-conduct-url]
 
 
 <!-- CONTACT -->
@@ -213,6 +213,7 @@ Distributed under the MIT License. See [LICENSE][license-url] for more informati
 [contributors-shield]: https://img.shields.io/github/contributors/devtobi/%REPONAME%.svg?style=flat-square
 [contributors-url]: https://github.com/devtobi/%REPONAME%/graphs/contributors
 [contributing-url]: https://github.com/devtobi/%REPONAME%/blob/master/CONTRIBUTING.md
+[code-of-conduct-url]: https://github.com/devtobi/%REPONAME%/blob/master/CODE_OF_CONDUCT.md
 
 [forks-shield]: https://img.shields.io/github/forks/devtobi/%REPONAME%.svg?style=flat-square
 [forks-url]: https://github.com/devtobi/%REPONAME%/network/members
