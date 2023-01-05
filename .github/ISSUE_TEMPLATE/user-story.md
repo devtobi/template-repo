@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: Define a user story that should be implemented
+about: Request a new feature by providing a User Story
 title: DESCRIBE USER STORY IN MAX 15 WORDS
 labels: 'Priority: Low, Status: Available'
 assignees: ''
