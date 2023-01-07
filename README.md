@@ -35,7 +35,7 @@
 ![Languages][languages-shield]
 ![Lines of code][lines-shield]
 ![Size][size-shield]
-[![MIT License][license-shield]][license-url]
+[![License][license-shield]][license-url]
 
 <!-- PROJECT LOGO -->
 <br />
