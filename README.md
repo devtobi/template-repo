@@ -31,11 +31,11 @@
 <!-- ![Sonar Quality Gate][sonar-quality-shield] -->
 ![Dependencies][dependency-shield]
 
-![Size][size-shield]
-[![MIT License][license-shield]][license-url]
-
 ![Top Language][top-language-shield]
 ![Languages][languages-shield]
+![Lines of code][lines-shield]
+![Size][size-shield]
+[![MIT License][license-shield]][license-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -246,6 +246,7 @@ Distributed under the MIT License. See [LICENSE][license-url] for more informati
 [license-url]: https://github.com/devtobi/template-repo/blob/master/LICENSE
 
 [size-shield]: https://img.shields.io/github/repo-size/devtobi/template-repo?style=for-the-badge&logo=github
+[lines-shield]: https://img.shields.io/tokei/lines/github/devtobi/template-repo?style=for-the-badge&logo=github&label=Lines%20of%20code
 
 [release-shield]: https://img.shields.io/github/v/release/devtobi/template-repo?sort=semver&style=for-the-badge&logo=github
 [release-url]: https://github.com/devtobi/template-repo/releases
