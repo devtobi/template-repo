@@ -215,36 +215,36 @@ Distributed under the MIT License. See [LICENSE][license-url] for more informati
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/devtobi/template-repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/devtobi/template-repo.svg?style=for-the-badge&logo=github
 [contributors-url]: https://github.com/devtobi/template-repo/graphs/contributors
 [contributing-url]: https://github.com/devtobi/template-repo/blob/master/CONTRIBUTING.md
 [code-of-conduct-url]: https://github.com/devtobi/template-repo/blob/master/CODE_OF_CONDUCT.md
 
-[forks-shield]: https://img.shields.io/github/forks/devtobi/template-repo.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/devtobi/template-repo.svg?style=for-the-badge&logo=github
 [forks-url]: https://github.com/devtobi/template-repo/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/devtobi/template-repo.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/devtobi/template-repo.svg?style=for-the-badge&logo=github
 [stars-url]: https://github.com/devtobi/template-repo/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/devtobi/template-repo.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/devtobi/template-repo.svg?style=for-the-badge&logo=github
 [issues-url]: https://github.com/devtobi/template-repo/issues
 
-[license-shield]: https://img.shields.io/github/license/devtobi/template-repo.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/devtobi/template-repo.svg?style=for-the-badge&logo=github
 [license-url]: https://github.com/devtobi/template-repo/blob/master/LICENSE
 
-[size-shield]: https://img.shields.io/github/repo-size/devtobi/template-repo?style=for-the-badge
+[size-shield]: https://img.shields.io/github/repo-size/devtobi/template-repo?style=for-the-badge&logo=github
 
-[release-shield]: https://img.shields.io/github/v/release/devtobi/template-repo?sort=semver&style=for-the-badge
-[commit-shield]: https://img.shields.io/github/last-commit/devtobi/template-repo?style=for-the-badge
+[release-shield]: https://img.shields.io/github/v/release/devtobi/template-repo?sort=semver&style=for-the-badge&logo=github
+[commit-shield]: https://img.shields.io/github/last-commit/devtobi/template-repo?style=for-the-badge&logo=github
 
-[top-language-shield]: https://img.shields.io/github/languages/top/devtobi/template-repo?style=for-the-badge
-[languages-shield]: https://img.shields.io/github/languages/count/devtobi/template-repo?style=for-the-badge
+[top-language-shield]: https://img.shields.io/github/languages/top/devtobi/template-repo?style=for-the-badge&label=Top%20language&logo=github
+[languages-shield]: https://img.shields.io/github/languages/count/devtobi/template-repo?style=for-the-badge&logo=github
 
 <!-- THIRD PARTY BADGES -->
 
-[travis-shield]: https://img.shields.io/travis/com/devtobi/template-repo.svg?style=for-the-badge
-[dependency-shield]: https://img.shields.io/librariesio/github/devtobi/template-repo.svg?style=for-the-badge
-[quote-shield]: https://img.shields.io/badge/dynamic/xml?url=https://quotes.rest/qod?category=funny&label=Quote%20of%20the%20Day&query=//response/contents/quotes/quote&style=for-the-badge
+[travis-shield]: https://img.shields.io/travis/com/devtobi/template-repo.svg?style=for-the-badge&logo=travisci
+[dependency-shield]: https://img.shields.io/librariesio/github/devtobi/template-repo.svg?style=for-the-badge&logo=librariesdotio&logoColor=white
+[quote-shield]: https://img.shields.io/badge/dynamic/xml?url=https://quotes.rest/qod?category=funny&label=Quote%20of%20the%20Day&query=//response/contents/quotes/quote&style=for-the-badge&logo=wikiquote
 
 <!-- PRODUCT IMAGES -->
 [product-screenshot]: docs/images/product-screenshot.png
