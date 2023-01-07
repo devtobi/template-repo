@@ -2,7 +2,7 @@
 name: Bug
 about: Create a report to help improve the project
 title: DESCRIBE BUG IN MAX 15 WORDS
-labels: 'Priority: High, Priority: Low, Status: Available, Type: Bug, Type: User Story'
+labels: 'Priority: High, Status: Available, Type: Bug, Type: User Story'
 assignees: ''
 
 ---
