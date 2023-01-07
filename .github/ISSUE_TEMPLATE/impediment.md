@@ -22,3 +22,6 @@ List person able to resolve the impediment if applicable
 
 #### Possible Solution ####
 Document a solution that can be used to get rid of the impediment
+
+#### Blocked by impediment (optional) ####
+List the impediments that are blocking this issue if applicable

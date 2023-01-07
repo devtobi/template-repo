@@ -44,3 +44,6 @@ Defined acceptance criteria must fullfill the [`SMART`-criteria](https://www.atl
 
 #### Proof ####
 Describe how to proof if the epic was implemented correctly or not
+
+#### Blocked by impediment (optional) ####
+List the impediments that are blocking this issue if applicable

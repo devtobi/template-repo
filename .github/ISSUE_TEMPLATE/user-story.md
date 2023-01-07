@@ -41,3 +41,6 @@ You can further split the user story into technical tasks. List them here if nee
 #### Notes ####
 
 * Some complementary notes if necessary e.g.: quote from an email, whatever useful information can exist
+
+#### Blocked by impediment (optional) ####
+List the impediments that are blocking this issue if applicable

@@ -64,3 +64,6 @@ Provide a link to your pull request or paste a code snippet in here
 ```addprogramminglanguage
 this is my solution code
 ```
+
+#### Blocked by impediment (optional) ####
+List the impediments that are blocking this issue if applicable
