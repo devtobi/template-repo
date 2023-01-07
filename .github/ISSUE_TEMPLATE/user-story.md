@@ -2,7 +2,7 @@
 name: User Story
 about: Request a new feature by providing a User Story
 title: DESCRIBE USER STORY IN MAX 15 WORDS
-labels: 'Priority: Low, Status: Available, Type: User Story'
+labels: 'Priority: Medium, Status: Available, Type: User Story'
 assignees: ''
 
 ---
