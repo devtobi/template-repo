@@ -11,6 +11,8 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+![Quote of the day][quote-shield]
+
 ![Current release][release-shield]
 ![Last commit][commit-shield]
 [![Issues][issues-shield]][issues-url]
@@ -241,8 +243,8 @@ Distributed under the MIT License. See [LICENSE][license-url] for more informati
 <!-- THIRD PARTY BADGES -->
 
 [travis-shield]: https://img.shields.io/travis/com/devtobi/template-repo.svg?style=for-the-badge
-
 [dependency-shield]: https://img.shields.io/librariesio/github/devtobi/template-repo.svg?style=for-the-badge
+[quote-shield]: https://img.shields.io/badge/dynamic/xml?url=https://quotes.rest/qod?category=funny&label=Quote%20of%20the%20Day&query=//response/contents/quotes/quote&style=for-the-badge
 
 <!-- PRODUCT IMAGES -->
 [product-screenshot]: docs/images/product-screenshot.png
