@@ -1,6 +1,6 @@
 <!--
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** devtobi, %REPONAME%, twitter_handle, email
+*** devtobi/template-repo, twitter_handle, email
 -->
 
 <!-- PROJECT SHIELDS -->
@@ -28,10 +28,13 @@
 ![Size][size-shield]
 [![MIT License][license-shield]][license-url]
 
+![Top Language][top-language-shield]
+![Languages][languages-shield]
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/devtobi/%REPONAME%">
+  <a href="https://github.com/devtobi/template-repo">
     <img src="docs/images/logo.svg" alt="Logo" width="200" height="100">
   </a>
 
@@ -40,16 +43,16 @@
   <p align="center">
     YOUR_SHORT_DESCRIPTION
     <br />
-    <a href="https://github.com/devtobi/%REPONAME%/wiki"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/devtobi/template-repo/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/devtobi/%REPONAME%">View Demo</a>
+    <a href="https://www.google.de">View Demo</a>
     ·
-    <a href="https://devtobi.github.io/%REPONAME%/">Check GitHub Pages</a>
+    <a href="https://devtobi.github.io/template-repo/">Check GitHub Pages</a>
     ·
-    <a href="https://github.com/devtobi/%REPONAME%/issues">Report Bug</a>
+    <a href="https://github.com/devtobi/template-repo/issues/new/choose">Report Bug</a>
     ·
-    <a href="https://github.com/devtobi/%REPONAME%/issues">Request Feature</a>
+    <a href="https://github.com/devtobi/template-repo/issues/new/choose">Request Feature</a>
   </p>
 </p>
 
@@ -126,7 +129,7 @@ git clone https://github.com/github_username/repo.git
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [wiki](https://github.com/devtobi/%REPONAME%/wiki)_
+_For more examples, please refer to the [wiki](https://github.com/devtobi/template-repo/wiki)_
 
 
 
@@ -137,7 +140,7 @@ Current release is:
 
 ![Current release][release-shield]
 
-Only feature additions are listed here (_For the detailed notes, please refer to the [releases](https://github.com/devtobi/%REPONAME%/releases)_)
+Only feature additions are listed here (_For the detailed notes, please refer to the [releases](https://github.com/devtobi/template-repo/releases)_)
 
 ### 0.2
 * ADD: Add `init()`
@@ -150,7 +153,7 @@ Only feature additions are listed here (_For the detailed notes, please refer to
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/devtobi/%REPONAME%/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/devtobi/template-repo/issues) for a list of proposed features (and known issues).
 
 ### 2.x (December 2020)
 
@@ -179,7 +182,7 @@ The Code of Conduct can be found in [CODE_OF_CONDUCT.md][code-of-conduct-url]
 
 <!-- Tobias Stadler - [@devtobi](https://twitter.com/devtobi) -->
 
-<!-- Project Link: [https://github.com/devtobi/%REPONAME%](https://github.com/devtobi/%REPONAME%) -->
+<!-- Project Link: [https://github.com/devtobi/template-repo](https://github.com/devtobi/template-repo) -->
 
 
 
@@ -210,35 +213,36 @@ Distributed under the MIT License. See [LICENSE][license-url] for more informati
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/devtobi/%REPONAME%.svg?style=flat-square
-[contributors-url]: https://github.com/devtobi/%REPONAME%/graphs/contributors
-[contributing-url]: https://github.com/devtobi/%REPONAME%/blob/master/CONTRIBUTING.md
-[code-of-conduct-url]: https://github.com/devtobi/%REPONAME%/blob/master/CODE_OF_CONDUCT.md
+[contributors-shield]: https://img.shields.io/github/contributors/devtobi/template-repo.svg?style=for-the-badge
+[contributors-url]: https://github.com/devtobi/template-repo/graphs/contributors
+[contributing-url]: https://github.com/devtobi/template-repo/blob/master/CONTRIBUTING.md
+[code-of-conduct-url]: https://github.com/devtobi/template-repo/blob/master/CODE_OF_CONDUCT.md
 
-[forks-shield]: https://img.shields.io/github/forks/devtobi/%REPONAME%.svg?style=flat-square
-[forks-url]: https://github.com/devtobi/%REPONAME%/network/members
+[forks-shield]: https://img.shields.io/github/forks/devtobi/template-repo.svg?style=for-the-badge
+[forks-url]: https://github.com/devtobi/template-repo/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/devtobi/%REPONAME%.svg?style=flat-square
-[stars-url]: https://github.com/devtobi/%REPONAME%/stargazers
+[stars-shield]: https://img.shields.io/github/stars/devtobi/template-repo.svg?style=for-the-badge
+[stars-url]: https://github.com/devtobi/template-repo/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/devtobi/%REPONAME%.svg?style=flat-square
-[issues-url]: https://github.com/devtobi/%REPONAME%/issues
+[issues-shield]: https://img.shields.io/github/issues/devtobi/template-repo.svg?style=for-the-badge
+[issues-url]: https://github.com/devtobi/template-repo/issues
 
-[license-shield]: https://img.shields.io/github/license/devtobi/%REPONAME%.svg?style=flat-square
-[license-url]: https://github.com/devtobi/%REPONAME%/blob/master/LICENSE
+[license-shield]: https://img.shields.io/github/license/devtobi/template-repo.svg?style=for-the-badge
+[license-url]: https://github.com/devtobi/template-repo/blob/master/LICENSE
 
-[size-shield]: https://img.shields.io/github/size/devtobi/%REPONAME%.svg?style=flat-square
+[size-shield]: https://img.shields.io/github/repo-size/devtobi/template-repo?style=for-the-badge
 
-[release-shield]: https://img.shields.io/github/v/release/devtobi/%REPONAME%?sort=semver&style=flat-square
-[commit-shield]: https://img.shields.io/github/last-commit/devtobi/%REPONAME%?style=flat-square
+[release-shield]: https://img.shields.io/github/v/release/devtobi/template-repo?sort=semver&style=for-the-badge
+[commit-shield]: https://img.shields.io/github/last-commit/devtobi/template-repo?style=for-the-badge
+
+[top-language-shield]: https://img.shields.io/github/languages/top/devtobi/template-repo?style=for-the-badge
+[languages-shield]: https://img.shields.io/github/languages/count/devtobi/template-repo?style=for-the-badge
 
 <!-- THIRD PARTY BADGES -->
 
-[travis-shield]: https://img.shields.io/travis/com/devtobi/%REPONAME%.svg?style=flat-square
+[travis-shield]: https://img.shields.io/travis/com/devtobi/template-repo.svg?style=for-the-badge
 
-<!-- TODO SONAR TESTS, CODE COVERAGE, QUALITY GATE PASS -->
-
-[dependency-shield]: https://img.shields.io/librariesio/github/devtobi/%REPONAME%.svg?style=flat-square
+[dependency-shield]: https://img.shields.io/librariesio/github/devtobi/template-repo.svg?style=for-the-badge
 
 <!-- PRODUCT IMAGES -->
 [product-screenshot]: docs/images/product-screenshot.png
