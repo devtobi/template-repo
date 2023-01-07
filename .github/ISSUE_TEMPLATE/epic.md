@@ -2,7 +2,7 @@
 name: Epic
 about: Create larger grouped amount of work by defining an Epic
 title: DESCRIBE EPIC IN 15 WORDS
-labels: 'Priority: Medium, Status: Available'
+labels: 'Priority: Medium, Status: Available, Type: Epic'
 assignees: ''
 
 ---
