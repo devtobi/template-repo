@@ -24,6 +24,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
+[![Commit Activity per week][commit-activity-shield]][commit-activity-url]
 
 <!-- ![Travis][travis-shield] -->
 <!-- ![Sonar Tests][sonar-tests-shield] -->
@@ -253,6 +254,9 @@ Distributed under the MIT License. See [LICENSE][license-url] for more informati
 
 [commit-shield]: https://img.shields.io/github/last-commit/devtobi/template-repo?style=for-the-badge&logo=github
 [commit-url]: https://github.com/devtobi/template-repo/commit/master
+
+[commit-activity-shield]: https://img.shields.io/github/commit-activity/m/devtobi/template-repo?logo=github&style=for-the-badge
+[commit-activity-url]: https://github.com/devtobi/template-repo/commit/master
 
 [top-language-shield]: https://img.shields.io/github/languages/top/devtobi/template-repo?style=for-the-badge&label=Top%20language&logo=github
 [languages-shield]: https://img.shields.io/github/languages/count/devtobi/template-repo?style=for-the-badge&logo=github
