@@ -13,8 +13,8 @@
 -->
 ![Quote of the day][quote-shield]
 
-![Current release][release-shield]
-![Last commit][commit-shield]
+[![Current release][release-shield]][release-url]
+[![Last commit][commit-shield]][commit-url]
 [![Issues][issues-shield]][issues-url]
 
 [![Stargazers][stars-shield]][stars-url]
@@ -235,7 +235,10 @@ Distributed under the MIT License. See [LICENSE][license-url] for more informati
 [size-shield]: https://img.shields.io/github/repo-size/devtobi/template-repo?style=for-the-badge&logo=github
 
 [release-shield]: https://img.shields.io/github/v/release/devtobi/template-repo?sort=semver&style=for-the-badge&logo=github
+[release-url]: https://github.com/devtobi/template-repo/releases
+
 [commit-shield]: https://img.shields.io/github/last-commit/devtobi/template-repo?style=for-the-badge&logo=github
+[commit-url]: https://github.com/devtobi/template-repo/commit/master
 
 [top-language-shield]: https://img.shields.io/github/languages/top/devtobi/template-repo?style=for-the-badge&label=Top%20language&logo=github
 [languages-shield]: https://img.shields.io/github/languages/count/devtobi/template-repo?style=for-the-badge&logo=github
