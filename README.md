@@ -15,7 +15,11 @@
 
 [![Current release][release-shield]][release-url]
 [![Last commit][commit-shield]][commit-url]
-[![Issues][issues-shield]][issues-url]
+[![Open issues][issues-shield]][issues-url]
+[![Open pull requests][pr-shield]][pr-url]
+
+[![Closed issues][issues-closed-shield]][issues-closed-url]
+[![Closed pull requests][pr-closed-shield]][pr-closed-url]
 
 [![Stargazers][stars-shield]][stars-url]
 [![Contributors][contributors-shield]][contributors-url]
@@ -226,8 +230,17 @@ Distributed under the MIT License. See [LICENSE][license-url] for more informati
 [stars-shield]: https://img.shields.io/github/stars/devtobi/template-repo.svg?style=for-the-badge&logo=github
 [stars-url]: https://github.com/devtobi/template-repo/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/devtobi/template-repo.svg?style=for-the-badge&logo=github
-[issues-url]: https://github.com/devtobi/template-repo/issues
+[issues-shield]: https://img.shields.io/github/issues-raw/devtobi/template-repo.svg?style=for-the-badge&logo=github
+[issues-url]: https://github.com/devtobi/template-repo/issues?q=is%3Aopen+is%3Aissue+
+
+[issues-closed-shield]: https://img.shields.io/github/issues-closed-raw/devtobi/template-repo.svg?style=for-the-badge&logo=github
+[issues-closed-url]: https://github.com/devtobi/template-repo/issues?q=is%3Aissue+is%3Aclosed
+
+[pr-shield]: https://img.shields.io/github/issues-pr-raw/devtobi/template-repo.svg?style=for-the-badge&logo=github
+[pr-url]: https://github.com/devtobi/template-repo/pulls?q=is%3Apr+is%3Aopen
+
+[pr-closed-shield]: https://img.shields.io/github/issues-pr-closed-raw/devtobi/template-repo.svg?style=for-the-badge&logo=github
+[pr-closed-url]: https://github.com/devtobi/template-repo/pulls?q=is%3Apr+is%3Aclosed
 
 [license-shield]: https://img.shields.io/github/license/devtobi/template-repo.svg?style=for-the-badge&logo=github
 [license-url]: https://github.com/devtobi/template-repo/blob/master/LICENSE
