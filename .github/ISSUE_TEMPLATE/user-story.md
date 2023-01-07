@@ -26,6 +26,13 @@ Reference constraints that apply for this user story (**TODO Add link to arc42 c
 2. Constraint 2
 3. Constraint 3
 
+#### Tasks ####
+You can further split the user story into technical tasks. List them here if needed
+
+-
+-
+-
+
 #### Resources ####
 
 * Example 1: [Here goes an optional URL]()
@@ -34,5 +41,3 @@ Reference constraints that apply for this user story (**TODO Add link to arc42 c
 #### Notes ####
 
 * Some complementary notes if necessary e.g.: quote from an email, whatever useful information can exist
-
-**TODO ADD UserStory-Label**
