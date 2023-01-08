@@ -14,10 +14,11 @@
 ![Quote of the day][quote-shield]
 
 [![Current release][release-shield]][release-url]
+[![Docker image][docker-version-shield]][docker-version-url]
 [![Last commit][commit-shield]][commit-url]
+
 [![Open issues][issues-shield]][issues-url]
 [![Open pull requests][pr-shield]][pr-url]
-
 [![Closed issues][issues-closed-shield]][issues-closed-url]
 [![Closed pull requests][pr-closed-shield]][pr-closed-url]
 
@@ -264,8 +265,13 @@ Distributed under the MIT License. See [LICENSE][license-url] for more informati
 <!-- THIRD PARTY BADGES -->
 
 [travis-shield]: https://img.shields.io/travis/com/devtobi/template-repo.svg?style=for-the-badge&logo=travisci
+
 [dependency-shield]: https://img.shields.io/librariesio/github/devtobi/template-repo.svg?style=for-the-badge&logo=librariesdotio&logoColor=white
+
 [quote-shield]: https://img.shields.io/badge/dynamic/xml?url=https://quotes.rest/qod?category=funny&label=Quote%20of%20the%20Day&query=//response/contents/quotes/quote&style=for-the-badge&logo=wikiquote
+
+[docker-version-shield]: https://img.shields.io/docker/v/devtobi/template-repo?logo=docker&logoColor=white&sort=semver&style=for-the-badge
+[docker-version-url]: https://hub.docker.com/r/devtobi/template-repo
 
 <!-- PRODUCT IMAGES -->
 [product-screenshot]: docs/images/product-screenshot.png
