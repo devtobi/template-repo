@@ -39,7 +39,8 @@
 ![Top Language][top-language-shield]
 ![Languages][languages-shield]
 ![Lines of code][lines-shield]
-![Size][size-shield]
+![Repository size][size-shield]
+[![Image size][docker-size-shield]][docker-size-url]
 [![License][license-shield]][license-url]
 
 <!-- PROJECT LOGO -->
@@ -281,6 +282,9 @@ Distributed under the MIT License. See [LICENSE][license-url] for more informati
 
 [docker-pulls-shield]: https://img.shields.io/docker/pulls/devtobi/template-repo?logo=docker&logoColor=white&style=for-the-badge
 [docker-pulls-url]: https://hub.docker.com/r/devtobi/template-repo
+
+[docker-size-shield]: https://img.shields.io/docker/image-size/devtobi/template-repo?logo=docker&logoColor=white&sort=semver&style=for-the-badge
+[docker-size-url]: https://hub.docker.com/r/devtobi/template-repo
 
 <!-- PRODUCT IMAGES -->
 [product-screenshot]: docs/images/product-screenshot.png
