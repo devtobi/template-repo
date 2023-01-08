@@ -22,11 +22,13 @@
 [![Closed issues][issues-closed-shield]][issues-closed-url]
 [![Closed pull requests][pr-closed-shield]][pr-closed-url]
 
-[![Docker pulls][docker-pulls-shield]][docker-pulls-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Commit Activity per week][commit-activity-shield]][commit-activity-url]
+
+[![GitHub releases downloads][downloads-shield]][downloads-url]
+[![Docker pulls][docker-pulls-shield]][docker-pulls-url]
 
 <!-- ![Travis][travis-shield] -->
 <!-- ![Sonar Tests][sonar-tests-shield] -->
@@ -262,6 +264,9 @@ Distributed under the MIT License. See [LICENSE][license-url] for more informati
 
 [top-language-shield]: https://img.shields.io/github/languages/top/devtobi/template-repo?style=for-the-badge&label=Top%20language&logo=github
 [languages-shield]: https://img.shields.io/github/languages/count/devtobi/template-repo?style=for-the-badge&logo=github
+
+[downloads-shield]: https://img.shields.io/github/downloads/devtobi/template-repo/total?logo=github&style=for-the-badge
+[downloads-url]: https://github.com/devtobi/template-repo/releases
 
 <!-- THIRD PARTY BADGES -->
 
