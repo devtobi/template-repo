@@ -22,6 +22,7 @@
 [![Closed issues][issues-closed-shield]][issues-closed-url]
 [![Closed pull requests][pr-closed-shield]][pr-closed-url]
 
+[![Docker pulls][docker-pulls-shield]][docker-pulls-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -272,6 +273,9 @@ Distributed under the MIT License. See [LICENSE][license-url] for more informati
 
 [docker-version-shield]: https://img.shields.io/docker/v/devtobi/template-repo?logo=docker&logoColor=white&sort=semver&style=for-the-badge
 [docker-version-url]: https://hub.docker.com/r/devtobi/template-repo
+
+[docker-pulls-shield]: https://img.shields.io/docker/pulls/devtobi/template-repo?logo=docker&logoColor=white&style=for-the-badge
+[docker-pulls-url]: https://hub.docker.com/r/devtobi/template-repo
 
 <!-- PRODUCT IMAGES -->
 [product-screenshot]: docs/images/product-screenshot.png
